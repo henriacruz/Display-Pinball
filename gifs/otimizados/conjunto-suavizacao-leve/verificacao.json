@@ -1,0 +1,30 @@
+[
+  {
+    "file": "video1.gif",
+    "frames": 78,
+    "duration_ms": 5200,
+    "bytes": 5812131,
+    "sha256": "936e08a4615f5e884f1d5b7299c5c4713cffcb2224a5b175c66689d7b75b18e5"
+  },
+  {
+    "file": "video2.gif",
+    "frames": 75,
+    "duration_ms": 5000,
+    "bytes": 5618376,
+    "sha256": "af9577126eb473020d878ec22679ce67d639600ff64408eeab35f2b53821fc1e"
+  },
+  {
+    "file": "video3.gif",
+    "frames": 82,
+    "duration_ms": 5470,
+    "bytes": 5594600,
+    "sha256": "649818bc0f084dc902d9d4a60620755eccbd2f0eb8961eedde7d26899ecd8748"
+  },
+  {
+    "file": "video4.gif",
+    "frames": 93,
+    "duration_ms": 6200,
+    "bytes": 7175814,
+    "sha256": "5d730bedb3f7d48bb40cf3051b27b9f7dd77becfb6004c7652e0681114882e69"
+  }
+]

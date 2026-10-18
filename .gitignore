@@ -1,0 +1,13 @@
+.pio/
+.tools/
+.sf/
+__pycache__/
+*.pyc
+gif-review.png
+tools/optimization-build.log
+# Variantes e backups locais; manter somente o conjunto aprovado.
+gifs/otimizados/*
+!gifs/otimizados/conjunto-suavizacao-leve/
+gifs/otimizados/conjunto-suavizacao-leve/backup-cartao-*/
+.vscode/*
+!.vscode/extensions.json
